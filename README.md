@@ -8,9 +8,9 @@ Essa extensão esta em totalmente em construção pode conter mas support a ling
 
 | Linguagem | Versão | Ultima Atualização | Comando GLobal |
 | :---         |     :---:      |          :---: |  :---: |
-| Html5   | 1.0.0     | 22/nov/22    | Redme/html | 
-| Javascript     | 1.0.0       | 22/nov/22      | Redme/javaScript | 
-| React Native     | 1.0.0        | 22/nov/22      | Redme/reactnative | 
+| Html5   | 0.0.1     | 22/nov/22    | Redme/html | 
+| Javascript     | 0.0.1       | 22/nov/22      | Redme/javaScript | 
+| React Native     | 0.0.1        | 22/nov/22      | Redme/reactnative | 
 
 ## Notas de versão
 
