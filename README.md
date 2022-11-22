@@ -20,6 +20,9 @@ Estamos ainda formando a primeira versão dessa Extensão
 
 Formação inicial com diversidade de Comandos ( Adicionados )
 
+## Suporte da Extensão a versão do VScode 
+
+### ^1.73.0
 ## Diagrama de Utilização da Extensão e inplementação nos códigos
 
 Permissão de uso em diferentes linguagens: 
