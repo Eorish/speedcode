@@ -4,7 +4,7 @@ Speed code é uma Extensão de Snippets, feita para a programação em linguagen
 
 
 <div align="center">
-<img src="https://www.canva.com/design/DAFStHRYn-8/gS4XhcZlWiqrhxQMKSSOaA/view?utm_content=DAFStHRYn-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="700px" />
+<img src="https://i.ibb.co/FBkL2C4/Speed.png" width="700px" />
 </div>
 
 # Linguage
