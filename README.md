@@ -6,7 +6,7 @@ Speed code é uma Extensão de Snippets, feita para a programação em linguagen
 
 Essa extensão esta em totalmente em construção pode conter mas support a linguagens como: Python, C#, C++, PHP
 
-| Linguagem | Versão | Ultima Atualização | Comando GLobal |
+| Linguagem | Versão | Ultima Atualização | Comando Global |
 | :---         |     :---:      |          :---: |  :---: |
 | Html5   | 0.0.1     | 22/nov/22    | Redme/html | 
 | Javascript     | 0.0.1       | 22/nov/22      | Redme/javaScript | 
