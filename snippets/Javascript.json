@@ -1,0 +1,68 @@
+{
+    "Module ToString()" : {
+
+        "prefix": ["@ts"],
+
+        "scope": "javascript",
+
+        "body": [
+
+            "let text = \"Hello World!\";",
+
+            "console.log(text.toString();)"
+        ]
+    },
+
+    "Module getElementById" : {
+
+        "prefix": ["@get"],
+
+        "scope": "javascript",
+
+        "body": [
+
+            "document.getElementById(\"$1\").innerHTML = $2;"
+
+        ]
+    },
+
+    "Module JSON" : {
+
+        "prefix": ["@mj"],
+
+        "scope": "javascript",
+
+        "body": [
+
+          "var obj = JSON.parse('{\"firstName\":\"John\", \"lastName\":\"Doe\"}');",
+          "",
+          "document.getElementById(\"$1\").innerHTML = obj.firstName;"
+            
+        ]
+    },
+
+    "Module Conect DB JQuery": {
+
+        "prefix": ["@conectDB"],
+
+        "scope": "javascript",
+
+        "body": [
+
+           " $.ajax({",
+           "",
+                "type: \"$1\",",
+                "",
+                "url: $2,",
+                "",
+                "data: data,",
+                "",
+                "success: function($3){",
+                "",
+                "},",
+                "dataType: dataType",
+                "",
+              "});"
+        ]
+    }
+}

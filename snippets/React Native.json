@@ -1,0 +1,47 @@
+{
+    "Module View React Native": {
+
+        "prefix": "@view",
+
+        "isFileTemplate": false,
+
+        "scope": "javascript",
+
+        "body": [
+        
+            "<View style={styles.$1}>",
+            "", 
+            "</View>"
+
+        ]
+    },
+
+    "Button React Native": {
+
+        "prefix": "@bt",
+
+        "body": [
+
+            "<Button",
+            "",
+            "title=\"Adicione seu Nome\"",
+            "",
+            "color=\"#48D1CC\"",
+          "",
+          "/>"
+        ]
+    },
+    "Text React Native": {
+
+        "prefix": "@bt",
+
+        "body": [
+
+            "<Text>",
+            "",
+            "Read the docs to discover what to do next:",
+            "",
+            "</Text>"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "speedcode",
+
+  "displayName": "SpeedCode",
+
+  "description": "",
+
+  "version": "0.0.1",
+
+  "engines": {
+
+    "vscode": "^1.73.0"
+
+  },
+
+  "categories": [
+
+    "Snippets"
+
+  ],
+
+  "contributes": {
+
+    "snippets": [
+
+      {
+
+        "language": "html",
+
+        "path": "./snippets/snippets.code-snippets"
+
+      },
+      {
+
+        "language": "javascript",
+
+        "path": "/snippets/Javascript.json"
+
+      },
+
+      {
+
+        "language": "javascript",
+
+        "path": "/snippets/React Native.json"
+
+      }
+
+    ]
+
+  }
+
+}

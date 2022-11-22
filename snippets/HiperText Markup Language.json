@@ -1,0 +1,279 @@
+{
+
+    "Help metod Linguage": {
+
+        "prefix": ["@help", "@scrr", "SpeedCode"],
+
+        "description": "Criando uma Div no HiperText 5",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "Olá Developer!",
+            "",
+            "Support is Linguage:",
+            "Html",
+            "React Native",
+            "Javascript",
+            "",
+            "Essa extensão é comando logs Básico!",
+            "Para saber mais sobre essa extensão e sobre seu Comandos Visite o site no Github",
+            "https://www.github.com/"
+        ]
+
+    },
+
+
+    "Post home HTML": {
+
+        "prefix": ["@hc"],
+
+        "description": "Criando uma Div no HiperText 5",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<!DOCTYPE html>",
+            "",
+            "<html lang=\"pt-br\">",
+            "",
+            "<head>",
+            "",
+            "       <meta charset=\"UTF-8\">",
+            "",
+            "       <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+            "",
+            "       <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+            "",
+            "       <title>$1</title>",
+            "",
+        "</head>",
+        "",
+        "<body>",
+        "",
+        "            $2",
+        "",
+        "</body>",
+        "",
+        "</html>",
+        ""
+
+        ]
+
+    },
+
+    "Install Boostrap": {
+
+        "prefix": ["@getbootstrap"],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css\" rel=\"stylesheet\">",
+            "",
+            "<link href=\"https://getbootstrap.com/docs/5.2/assets/css/docs.css\" rel=\"stylesheet\">",
+            "",
+            "<script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js\"></script>"
+
+        ]
+
+    },
+
+    "Metod Form User": {
+
+        "prefix": [ "@for" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+                    
+        "<div class=\"row\">",
+        "",
+          "<div class=\"col\">",
+          "",
+                "<input type=\"text\" class=\"form-control\" placeholder=\"First name\" aria-label=\"First name\">",
+                "",
+           "</div>",
+           "",
+            "<div class=\"col\">",
+            "",
+                "<input type=\"text\" class=\"form-control\" placeholder=\"Last name\" aria-label=\"Last name\">",
+                "",
+           "</div>",
+           "",
+            "</div>"
+
+        ]
+
+    }, 
+
+    "Metod javascript": {
+
+        "prefix": [ "@mj" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<script>",
+            "",
+            "function name() {",
+            "", 
+            "   Alert(\"Olá Mundo!\")",
+            "",
+            "}",
+            "",
+            "</script>"
+
+        ]
+    },
+
+    "Metod Músic Playauto": {
+
+        "prefix": [ "@mus" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+           "<audio autoplay=\"autoplay\" controls=\"controls\">",
+           "",
+           "<source src=\"$1\" type=\"audio/mp3\" />",
+           "",
+           "</audio>"
+
+        ]
+
+    },
+
+    "": {
+
+        "prefix": [ "@mov" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+           "<video width=\"320\" height=\"240\" controls>",
+           "",
+           "<source src=\"$1\" type=\"video/mp4\">",
+           "",
+           "<source src=\"$2\" type=\"video/ogg\">",
+           "",
+           "</video>",
+           ""
+        ]
+    },
+
+    "Metod Div Class": {
+
+        "prefix": [ "@dc" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<div class=\"$1\">",
+            "",
+            "</div>"
+
+        ]
+    }, 
+
+    "Metod Div Id": {
+
+        "prefix": [ "@di" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<div id=\"$1\">",
+            "",
+            "</div>"
+
+        ]
+    },
+
+    "Form Element MenuBar": {
+        
+        "prefix": [ "@bm" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<header>",
+            "",
+            "  <nav class=\"$1\" id=\"$2\">",
+            "",
+            "   <ul>",
+            "",
+            "   <li>$3</li>",
+            "",
+            "   <li>$4</li>",
+            "",
+            "   <li>$5</li>",
+            "",
+            "   </nav>",
+            "",
+            "</header>"
+        ]
+    },
+
+    "Modific Module Clone": {
+
+        "prefix": [ "@p" ],
+
+        "description": "",
+
+        "isFileTemplate": false,
+
+        "scope": "html",
+
+        "body": [
+
+            "<$1></$1>"
+        ]
+    }
+}       
