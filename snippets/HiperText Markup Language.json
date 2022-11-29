@@ -1,32 +1,5 @@
 {
 
-    "Help metod Linguage": {
-
-        "prefix": ["@help", "@scrr", "SpeedCode"],
-
-        "description": "Criando uma Div no HiperText 5",
-
-        "isFileTemplate": false,
-
-        "scope": "html",
-
-        "body": [
-
-            "Olá Developer!",
-            "",
-            "Support is Linguage:",
-            "Html",
-            "React Native",
-            "Javascript",
-            "",
-            "Essa extensão é comando logs Básico!",
-            "Para saber mais sobre essa extensão e sobre seu Comandos Visite o site no Github",
-            "https://www.github.com/"
-        ]
-
-    },
-
-
     "Post home HTML": {
 
         "prefix": ["@hc"],
