@@ -269,7 +269,7 @@
 
         "isFileTemplate": false,
 
-        "scope": "html",
+        "scope": ["html","javascript","react"],
 
         "body": [
 
