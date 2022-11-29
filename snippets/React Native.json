@@ -24,7 +24,7 @@
 
             "<Button",
             "",
-            "title=\"Adicione seu Nome\"",
+            "title=\"$1\"",
             "",
             "color=\"#48D1CC\"",
           "",
