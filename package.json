@@ -27,22 +27,22 @@
 
         "language": "html",
 
-        "path": "./snippets/HiperText Markup Language.json"
+        "path": "/client/HiperText Markup Language.json"
 
       },
       {
 
         "language": "javascript",
 
-        "path": "/snippets/Javascript.json"
+        "path": "/client/Javascript.json"
 
       },
 
       {
 
-        "language": "javascript",
+        "language": "react",
 
-        "path": "/snippets/React Native.json"
+        "path": "/client/React Native.json"
 
       }
 
