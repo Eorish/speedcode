@@ -9,7 +9,7 @@
 
             "let text = \"Hello World!\";",
 
-            "console.log(text.toString();)"
+            "console.log(text.toString());"
         ]
     },
 
@@ -53,7 +53,7 @@
            "",
                 "type: \"$1\",",
                 "",
-                "url: $2,",
+                "url: \"$2\",",
                 "",
                 "data: data,",
                 "",

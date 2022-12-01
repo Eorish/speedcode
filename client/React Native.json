@@ -20,6 +20,10 @@
 
         "prefix": "@bt",
 
+        "isFileTemplate": false,
+
+        "scope": "javascript",
+
         "body": [
 
             "<Button",
@@ -35,6 +39,10 @@
 
         "prefix": "@tx",
 
+        "isFileTemplate": false,
+
+        "scope": "javascript",
+        
         "body": [
 
             "<Text>",
