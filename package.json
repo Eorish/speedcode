@@ -27,14 +27,14 @@
 
         "language": "html",
 
-        "path": "/client/HiperText Markup Language.json"
+        "path": "/Client/HiperText Markup Language.json"
 
       },
       {
 
         "language": "javascript",
 
-        "path": "/client/Javascript.json"
+        "path": "/Client/Javascript.json"
 
       },
 
@@ -42,7 +42,7 @@
 
         "language": "react",
 
-        "path": "/client/React Native.json"
+        "path": "/Client/React Native.json"
 
       }
 
