@@ -2,7 +2,7 @@
 
     "Post home HTML": {
 
-        "prefix": ["@hc"],
+        "prefix": ["_hc"],
 
         "description": "Criando uma Div no HiperText 5",
 
@@ -43,7 +43,7 @@
 
     "Install Boostrap": {
 
-        "prefix": ["@getbootstrap"],
+        "prefix": ["_getbootstrap"],
 
         "description": "",
 
@@ -65,7 +65,7 @@
 
     "Metod Form User": {
 
-        "prefix": [ "@for" ],
+        "prefix": [ "_for" ],
 
         "description": "",
 
@@ -98,7 +98,7 @@
 
     "Metod javascript": {
 
-        "prefix": [ "@mj" ],
+        "prefix": [ "_mj" ],
 
         "description": "",
 
@@ -123,7 +123,7 @@
 
     "Metod Músic Playauto": {
 
-        "prefix": [ "@mus" ],
+        "prefix": [ "_mus" ],
 
         "description": "",
 
@@ -143,9 +143,9 @@
 
     },
 
-    "": {
+    "Metod movie autoPlay": {
 
-        "prefix": [ "@mov" ],
+        "prefix": [ "_mov" ],
 
         "description": "",
 
@@ -159,8 +159,6 @@
            "",
            "<source src=\"$1\" type=\"video/mp4\">",
            "",
-           "<source src=\"$2\" type=\"video/ogg\">",
-           "",
            "</video>",
            ""
         ]
@@ -168,7 +166,7 @@
 
     "Metod Div Class": {
 
-        "prefix": [ "@dc" ],
+        "prefix": [ "_dc" ],
 
         "description": "",
 
@@ -187,7 +185,7 @@
 
     "Metod Div Id": {
 
-        "prefix": [ "@di" ],
+        "prefix": [ "_di" ],
 
         "description": "",
 
@@ -206,7 +204,7 @@
 
     "Form Element MenuBar": {
         
-        "prefix": [ "@bm" ],
+        "prefix": [ "_bm" ],
 
         "description": "",
 
@@ -236,7 +234,7 @@
 
     "Modific Module Clone": {
 
-        "prefix": [ "@p" ],
+        "prefix": [ "_p" ],
 
         "description": "",
 
